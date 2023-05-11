@@ -40,6 +40,7 @@
         <Nullable>disable</Nullable>
         <Platforms>x64</Platforms>
         <Version>1.0.5</Version>
+        <Authors />
     </PropertyGroup>
 
     <ItemGroup>

@@ -3,8 +3,6 @@ using MelonLoader;
 using System;
 using System.IO;
 
-[assembly: MelonInfo(typeof(Plugin), "TLD Epic Games Mod Compatibility", "1.0.0", "Xpazeman")]
-[assembly: MelonGame("Hinterland", "TheLongDark")]
 
 namespace TLDEpicGamesModCompat;
 
