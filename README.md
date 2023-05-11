@@ -1,4 +1,4 @@
-#TLD Modding - Epic Compatibility Plugin
+# TLD Modding - Epic Compatibility Plugin
 
 Since the release of TFTFT, Epic users haven't been able to mod their games, because EOS (Epic Online Services) flags MelonLoader as a cheating program and closes the game as soon as it starts.
 
